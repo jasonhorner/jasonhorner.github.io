@@ -10,7 +10,7 @@ I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized fo
 
 In my off hours I like to snowboard, karaoke, ride roller coasters and play arcade games
 
-### I can talk Nerdy for you
+### I Can Talk Nerdy For You
 I love to speak about a variety of topics 
 https://sessionize.com/jason-horner/
 
