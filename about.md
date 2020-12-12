@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Jason I'm a Independent consultant and trainer focused on the Azure Data Platform. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.
+
+I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized for my technical excellence and evangelism efforts by Microsoft by being previously awarded the Most Valuable Professional (MVP) for the 6 years.
+
+In my off hours I like to snowboard, karaoke, ride roller coasters and play arcade games
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+TBD
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[me@jasonhorner.com](mailto:me@jasonhorner.com)
