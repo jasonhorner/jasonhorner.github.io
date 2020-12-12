@@ -10,10 +10,11 @@ I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized fo
 
 In my off hours I like to snowboard, karaoke, ride roller coasters and play arcade games
 
-### More Information
+### I can talk Nerdy for you
+I love to speak about a variety of topics 
+https://sessionize.com/jason-horner/
 
-TBD
 
-### Contact me
-
+### Papa Needs Brand New Shoes
+Always looking for new meaningful and interesting work: 
 [me@jasonhorner.com](mailto:me@jasonhorner.com)
