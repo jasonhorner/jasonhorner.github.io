@@ -12,7 +12,7 @@ In my off hours I like to snowboard, karaoke, ride roller coasters and play arca
 
 ### I Can Talk Nerdy For You
 I love to speak about a variety of topics 
-https://sessionize.com/jason-horner/
+[sessionize - jason horner](https://sessionize.com/jason-horner/)
 
 
 ### Papa Needs Brand New Shoes
