@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Hello World - Introducing My Blog
 ---
 
 Introducing My Blog: Your Guide to Data Engineering and Modern Data Warehousing on Azure
