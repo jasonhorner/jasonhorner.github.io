@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Go with the Flow: Managed Airflow in Azure Data Factory
+title: Go with the Flow - Managed Airflow in Azure Data Factory
 ---
-# Go with the Flow: Managed Airflow in Azure Data Factory
+#Go with the Flow: Managed Airflow in Azure Data Factory
 In the world of data processing and workflow management, Apache Airflow has emerged as a leading open-source solution. With its ability to programmatically author, schedule, and monitor sequences of processes and tasks, it's no wonder why organizations are turning to this tool to streamline their operations and scale their data pipelines.
 
 But, with so many different tools and technologies available, it can be overwhelming to determine which solution is right for your business. This is where Managed Airflow in Azure Data Factory comes in.
